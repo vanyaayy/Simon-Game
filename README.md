@@ -1,4 +1,4 @@
-# Simon-Game💡
+# Simon Game💡
 
 Welcome to the Simon Game! 
 This is a classic memory game where players need to remember and repeat a sequence of colors and sounds. Test your memory and see how far you can go!
